@@ -19,7 +19,8 @@ composer require ramynasr/phpdoc-markdown
 ## Usage
 
 Run phpDocumentor and set template as `vendor/ramynasr/phpdoc-markdown/data/templates/markdown`.
-**Example using configuration file:**
+
+### Example using configuration file:
 
 Add a file called `phpdoc.xml` (or `phpdoc.dist.xml`) with the following content to the root of your project and invoke the `phpdoc` command without arguments.
 Modify the configuration to suit your project. You can read more about [phpDocumentor v3 configuration here](https://docs.phpdoc.org/3.0/guide/references/configuration.html).
